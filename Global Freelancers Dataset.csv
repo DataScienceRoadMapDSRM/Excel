@@ -1,0 +1,823 @@
+freelancer_ID,name,gender,age,country,language,primary_skill,years_of_experience,hourly_rate (),rating,is_active,client_satisfaction
+FL250001,Ms. Nicole Kidd,FEMALE,52,Italy,Italian,Blockchain Development,11,$100,,NO,
+FL250002,Vanessa Garcia,FEMALE,52,Australia,English,Mobile Apps,34,$100,3.3,YES,84%
+FL250003,Juan Nelson,MALE,53,Germany,German,Graphic Design,31,$50,0,NO,71%
+FL250004,Amanda Spencer,FEMALE,38,Australia,English,Web Development,4,$40,1.5,NO,90%
+FL250005,Lynn Curtis DDS,FEMALE,53,Germany,German,Web Development,27,$30,4.8,NO,83%
+FL250006,Lisa Johnson,FEMALE,59,Netherlands,Dutch,AI,14,$30,2.4,NO,
+FL250007,Eric Myers,MALE,52,Indonesia,Indonesian,Data Analysis,10,$75,3.1,NO,94%
+FL250008,Ricky Graham,MALE,43,Italy,Italian,Blockchain Development,14,$40,4.6,NO,94%
+FL250010,Matthew Lloyd,MALE,52,Turkey,Turkish,AI,22,$50,,YES,
+FL250011,Gavin Randall,MALE,40,United Kingdom,English,Data Analysis,17,$40,3.6,YES,77%
+FL250014,Phillip Shelton,MALE,38,Argentina,Spanish,Graphic Design,20,$75,2.9,YES,93%
+FL250015,Edward Ferguson,MALE,50,Germany,German,Data Analysis,22,$75,3.7,YES,70%
+FL250016,Wyatt Stout,MALE,42,Japan,Japanese,Data Analysis,0,$30,1.2,NO,69%
+FL250017,Laura Johnson,FEMALE,39,Australia,English,DevOps,13,$30,2.5,NO,60%
+FL250019,Tyler Aguirre,MALE,56,United States,English,UI/UX Design,31,$50,1.1,NO,75%
+FL250020,Matthew Lawson,MALE,57,Italy,Italian,Web Development,3,$100,1.8,YES,68%
+FL250021,James Cherry,MALE,,Indonesia,Indonesian,AI,9,$50,1.8,NO,65%
+FL250023,Cesar Greene,MALE,51,Brazil,Portuguese,Cybersecurity,21,$30,4.7,NO,
+FL250024,Melanie Carter,FEMALE,51,South Korea,Korean,Machine Learning,15,$50,1.3,YES,100%
+FL250026,Anna Mccann,FEMALE,22,South Korea,Korean,DevOps,0,$30,1.2,YES,70%
+FL250027,Marissa Bass,FEMALE,34,Japan,Japanese,Blockchain Development,8,$20,0,YES,89%
+FL250029,Megan Jones,FEMALE,47,Canada,English,AI,22,$30,1.3,NO,62%
+FL250030,Lori Smith,FEMALE,41,Netherlands,Dutch,Data Analysis,14,$75,1.2,NO,
+FL250032,Timothy Daniels,MALE,38,France,French,Machine Learning,19,$100,4.2,NO,68%
+FL250033,Robert Nelson,MALE,46,Egypt,Arabic,AI,9,$20,1.4,YES,76%
+FL250034,Michael Anderson,MALE,,South Korea,Korean,AI,9,$40,2.4,YES,82
+FL250035,Jessica Snyder,FEMALE,54,United States,English,Web Development,32,$75,1,YES,81%
+FL250036,Emily Daniels,FEMALE,52,South Korea,Korean,Web Development,28,$20,,NO,
+FL250037,Jamie Ramirez,FEMALE,42,Japan,Japanese,Mobile Apps,6,$40,,NO,63%
+FL250038,Amy Harrison,FEMALE,29,Netherlands,Dutch,Graphic Design,10,$40,2.2,NO,67%
+FL250039,Melinda White,FEMALE,42,South Africa,Afrikaans,Mobile Apps,23,$50,3.2,YES,
+FL250040,James Hernandez,MALE,60,Japan,Japanese,Web Development,13,$20,3.6,NO,80%
+FL250041,Angelica Rogers,FEMALE,59,United Kingdom,English,AI,3,$50,0,NO,
+FL250042,Savannah Williams,FEMALE,21,Canada,English,Web Development,0,$30,2.7,YES,84%
+FL250043,Kaitlyn Schmidt,FEMALE,35,Germany,German,DevOps,10,$50,0,NO,
+FL250044,Jason Singh,MALE,41,United Kingdom,English,Data Analysis,,$20,2.8,YES,63%
+FL250045,Michelle Ramirez,FEMALE,51,Netherlands,Dutch,Machine Learning,23,$20,2.5,NO,80%
+FL250046,James Brown,MALE,41,South Africa,Afrikaans,Web Development,9,$75,4.9,YES,74%
+FL250047,Mrs. Samantha Simmons,FEMALE,47,Egypt,Arabic,DevOps,15,$30,4.5,YES,85%
+FL250048,Chase Mason,MALE,25,China,Mandarin,Graphic Design,4,$50,2.7,NO,77%
+FL250049,Dominique Ward,FEMALE,25,Mexico,Spanish,Mobile Apps,7,$20,1.9,NO,
+FL250050,Lance Griffin,MALE,29,Netherlands,Dutch,UI/UX Design,1,$20,1.4,YES,63%
+FL250051,Julie Burgess,FEMALE,23,Argentina,Spanish,Cybersecurity,0,$75,1.9,YES,79%
+FL250052,Don Scott,MALE,31,France,French,Data Analysis,8,$50,3.4,NO,
+FL250054,Jimmy Hogan,MALE,,Spain,Spanish,UI/UX Design,1,$30,0,NO,68%
+FL250055,Jennifer Mcintyre,FEMALE,29,Turkey,Turkish,Cybersecurity,11,$100,2.3,YES,72%
+FL250057,Laura Price,FEMALE,26,United Kingdom,English,DevOps,8,$50,1.3,NO,76%
+FL250058,Mark Wright,MALE,38,Canada,English,AI,17,$40,4,YES,90%
+FL250059,Samantha Mcdaniel,FEMALE,23,India,Hindi,Mobile Apps,,$75,3.6,YES,65%
+FL250060,Barbara Foster,FEMALE,51,South Africa,Afrikaans,DevOps,28,$40,3.9,NO,63%
+FL250061,Courtney Tran,FEMALE,51,Indonesia,Indonesian,AI,33,$75,0,YES,
+FL250062,Eddie Todd,MALE,47,Germany,German,AI,18,$75,0,NO,
+FL250063,Christine Johnson,FEMALE,34,Russia,Russian,UI/UX Design,16,$20,2.3,YES,93%
+FL250064,Leah Phelps,FEMALE,58,Indonesia,Indonesian,Data Analysis,35,$50,4.7,NO,70%
+FL250066,Crystal Wilson,FEMALE,34,Spain,Spanish,Web Development,12,$40,2.4,YES,64
+FL250067,Ashley Cordova,FEMALE,45,Brazil,Portuguese,AI,11,$75,4,NO,100%
+FL250068,Vicki Kelly,FEMALE,55,Brazil,Portuguese,Web Development,0,$40,0,YES,
+FL250069,Corey Warren,MALE,,Argentina,Spanish,UI/UX Design,6,$100,1.5,NO,
+FL250070,Gina Thompson,FEMALE,60,China,Mandarin,UI/UX Design,38,$20,2,NO,71%
+FL250072,Thomas Miller,MALE,60,Italy,Italian,DevOps,13,$50,1,NO,
+FL250073,Nicholas Burton,MALE,40,United States,English,Web Development,9,$100,4.5,YES,69%
+FL250075,Melvin Harris,MALE,36,Italy,Italian,Machine Learning,14,$100,3.7,NO,
+FL250076,Jeremy Meyer,MALE,32,India,Hindi,Data Analysis,,$30,1.9,YES,96%
+FL250077,Timothy Lee,MALE,59,Australia,English,AI,9,$75,4,YES,96
+FL250078,Diana Bautista,FEMALE,54,Spain,Spanish,DevOps,32,$40,1.8,NO,
+FL250080,Noah Wiggins,MALE,54,India,Hindi,Machine Learning,21,$100,4.6,NO,
+FL250081,Bridget Williams,FEMALE,33,Argentina,Spanish,UI/UX Design,12,$100,3.6,NO,63%
+FL250083,Andrew Avila,MALE,,China,Mandarin,DevOps,3,$40,4.6,NO,74%
+FL250084,Michael Roberson,MALE,35,South Korea,Korean,Web Development,5,$75,3.2,NO,72%
+FL250085,Austin Jenkins,MALE,59,South Korea,Korean,AI,30,$40,0,YES,
+FL250086,Brenda Green,FEMALE,21,China,Mandarin,DevOps,2,$100,2.6,YES,85%
+FL250087,Samuel Pierce,MALE,25,United States,English,Mobile Apps,2,$75,3.7,NO,
+FL250088,Briana Smith,FEMALE,38,Mexico,Spanish,Web Development,19,$75,2.3,NO,61%
+FL250089,Ronald Barrett,MALE,57,Russia,Russian,AI,16,$100,3.1,NO,
+FL250090,Matthew Smith,MALE,32,India,Hindi,Mobile Apps,10,$20,2.4,NO,86%
+FL250091,Logan Huang,MALE,21,Italy,Italian,DevOps,2,$100,1.6,YES,97%
+FL250092,Miranda Hutchinson,FEMALE,57,Canada,English,Cybersecurity,18,$50,2.4,YES,63%
+FL250093,Paul Richardson,MALE,53,China,Mandarin,UI/UX Design,21,$100,,YES,97%
+FL250094,Jose Jones,MALE,35,Russia,Russian,Blockchain Development,3,$30,3.8,YES,81%
+FL250095,Denise Smith,FEMALE,54,China,Mandarin,Machine Learning,17,$20,1.7,NO,69%
+FL250096,Shelby Mcmahon,FEMALE,36,Italy,Italian,UI/UX Design,0,$20,1.3,YES,64%
+FL250097,Bethany Wright,FEMALE,49,Spain,Spanish,Cybersecurity,25,$50,5,NO,77%
+FL250098,David Ortiz,MALE,37,United States,English,Blockchain Development,17,$20,3.3,NO,96
+FL250099,Andrew Lynch,MALE,,United States,English,UI/UX Design,5,$20,1.1,NO,74%
+FL250100,Kristopher Meyers,MALE,32,Egypt,Arabic,UI/UX Design,10,$50,1.2,NO,89%
+FL250102,Vicki Brown,FEMALE,51,Russia,Russian,Graphic Design,2,$30,4.5,NO,64
+FL250103,Stacy Sutton,FEMALE,50,Russia,Russian,DevOps,30,$100,3,YES,73%
+FL250104,Kimberly Holland,FEMALE,21,Turkey,Turkish,Blockchain Development,2,$50,4.9,YES,68%
+FL250105,Travis Richardson,MALE,25,United States,English,Graphic Design,3,$30,,NO,88%
+FL250106,Jasmin Ho,FEMALE,57,France,French,DevOps,21,$40,2.5,NO,77%
+FL250108,Jennifer Lewis,FEMALE,45,Indonesia,Indonesian,Mobile Apps,19,$40,,YES,72%
+FL250109,Elizabeth Lester,FEMALE,23,United States,English,Web Development,0,$20,4.7,YES,60%
+FL250111,Tyler Warner,MALE,27,Argentina,Spanish,UI/UX Design,5,$30,,NO,92%
+FL250112,Jane Cox,FEMALE,32,United States,English,Machine Learning,6,$50,3.4,YES,
+FL250114,Kevin Wong,MALE,30,Turkey,Turkish,Mobile Apps,3,$30,1.1,YES,
+FL250116,Jessica Torres,FEMALE,32,Mexico,Spanish,AI,5,$30,,NO,86%
+FL250117,Teresa Kim,FEMALE,57,Egypt,Arabic,UI/UX Design,4,$40,3.4,YES,68%
+FL250118,Jon Morgan,MALE,27,Australia,English,Machine Learning,7,$20,3.2,YES,62%
+FL250119,Gloria Chaney,FEMALE,33,Indonesia,Indonesian,Machine Learning,13,$20,3.2,NO,
+FL250120,Jesse Campbell,MALE,29,South Korea,Korean,Data Analysis,4,$30,0,YES,82%
+FL250121,Allison Tucker MD,FEMALE,36,Indonesia,Indonesian,UI/UX Design,13,$75,,YES,
+FL250122,Candice Petersen,FEMALE,47,Italy,Italian,DevOps,5,$40,3.7,NO,93
+FL250123,Christopher Nichols,MALE,48,Canada,English,Machine Learning,15,$50,1,YES,64%
+FL250127,Austin Romero,MALE,30,Brazil,Portuguese,Mobile Apps,10,$100,1.7,YES,64%
+FL250128,Clayton Burns,MALE,31,Egypt,Arabic,Graphic Design,8,$40,4.4,NO,70%
+FL250129,Jonathan Clark,MALE,58,China,Mandarin,Machine Learning,9,$20,0,NO,65%
+FL250131,Shelly Whitehead,FEMALE,45,United Kingdom,English,Cybersecurity,14,$100,1.1,NO,93
+FL250132,Kaitlyn Davis,FEMALE,57,France,French,Machine Learning,0,$50,1.6,NO,60%
+FL250133,Christopher Jones,MALE,50,India,Hindi,Web Development,22,$100,4.1,NO,62%
+FL250135,Penny Day,FEMALE,45,Indonesia,Indonesian,Blockchain Development,22,$100,4,YES,75%
+FL250136,Thomas Ingram,MALE,60,South Africa,Afrikaans,Cybersecurity,39,$75,1.4,NO,70%
+FL250137,Donna Hansen,FEMALE,43,United Kingdom,English,Cybersecurity,5,$50,,YES,84%
+FL250138,Donna Bailey,FEMALE,39,France,French,Cybersecurity,5,$40,1.2,NO,83
+FL250139,Joshua Armstrong,MALE,26,Mexico,Spanish,UI/UX Design,5,$50,0,NO,
+FL250140,Jonathan Garza,MALE,31,Germany,German,Cybersecurity,11,$50,3.1,NO,88%
+FL250141,Charles Jones,MALE,52,France,French,UI/UX Design,15,$50,0,YES,81%
+FL250142,Lindsey Miles,FEMALE,34,India,Hindi,Data Analysis,5,$20,2.2,YES,80%
+FL250143,Eduardo Reed,MALE,45,United Kingdom,English,Web Development,7,$75,3,YES,67%
+FL250144,Lee Fowler,MALE,46,United Kingdom,English,Cybersecurity,9,$20,0,NO,82%
+FL250145,Steven Jones Jr.,MALE,56,France,French,UI/UX Design,21,$100,0,YES,78
+FL250146,Ashley Chen,FEMALE,59,Germany,German,AI,7,$40,1.4,NO,81%
+FL250148,Wayne Gonzales,MALE,36,Germany,German,UI/UX Design,7,$30,0,NO,88%
+FL250149,Gary Ballard,MALE,25,Mexico,Spanish,Data Analysis,0,$40,0,NO,90%
+FL250150,Maria Mcguire,FEMALE,37,Russia,Russian,Data Analysis,15,$40,2.9,NO,
+FL250152,Patrick Malone,MALE,29,Spain,Spanish,Data Analysis,11,$20,2.7,NO,93%
+FL250153,Cindy Martin,FEMALE,55,Argentina,Spanish,Mobile Apps,12,$100,1.8,YES,
+FL250154,Anne Edwards,FEMALE,38,Japan,Japanese,DevOps,20,$75,1.1,NO,71%
+FL250155,Mitchell Martin,MALE,47,South Korea,Korean,DevOps,29,$40,4.3,YES,95%
+FL250156,Mitchell Patrick,MALE,60,Brazil,Portuguese,Web Development,15,$100,1.5,NO,80
+FL250157,Rebecca Lyons,FEMALE,43,Italy,Italian,Data Analysis,9,$20,2.2,NO,
+FL250158,Christian Lopez,MALE,56,South Africa,Afrikaans,Data Analysis,,$100,3.2,NO,62%
+FL250159,Nathan Blair,MALE,42,Russia,Russian,DevOps,2,$50,1.9,NO,95%
+FL250160,Patricia Lopez,FEMALE,20,Spain,Spanish,Graphic Design,0,$40,2.5,NO,79%
+FL250161,Michelle Wu,FEMALE,47,Indonesia,Indonesian,UI/UX Design,12,$40,4.5,NO,62%
+FL250162,Donald Mitchell,MALE,,Argentina,Spanish,Data Analysis,12,$30,4.1,NO,68%
+FL250163,Sean Gordon,MALE,56,Indonesia,Indonesian,DevOps,15,$75,0,NO,
+FL250164,Gregory Clarke,MALE,59,United Kingdom,English,DevOps,29,$75,,NO,80%
+FL250166,Robin Acosta,FEMALE,31,South Africa,Afrikaans,Web Development,,$75,1.3,YES,65%
+FL250167,John Smith,MALE,60,South Korea,Korean,Mobile Apps,33,$40,3.6,YES,87%
+FL250168,Susan Baker,FEMALE,31,Canada,English,Web Development,10,$75,0,NO,70%
+FL250169,Anthony Larsen,MALE,60,Argentina,Spanish,Cybersecurity,20,$40,1.4,NO,87
+FL250170,Nicholas Carpenter,MALE,46,France,French,DevOps,23,$20,2.9,NO,72%
+FL250171,Debra Salazar,FEMALE,,Netherlands,Dutch,Blockchain Development,,$40,2.8,NO,80%
+FL250172,William Smith,MALE,34,Japan,Japanese,UI/UX Design,0,$20,1.7,NO,66%
+FL250173,Caroline Gross,FEMALE,42,Netherlands,Dutch,Graphic Design,7,$40,0,YES,
+FL250174,Jeremy Sawyer,MALE,31,United Kingdom,English,Data Analysis,4,$75,1.1,YES,64%
+FL250176,Amanda Jones,FEMALE,57,Australia,English,Graphic Design,17,$20,3.6,NO,63%
+FL250177,Frederick Ware,MALE,47,India,Hindi,DevOps,8,$20,4.5,YES,72%
+FL250178,Michael Black,MALE,47,South Africa,Afrikaans,AI,14,$30,0,YES,86%
+FL250179,Patricia Sanders,FEMALE,45,France,French,Graphic Design,21,$30,1.5,YES,73%
+FL250180,Marc Joseph,MALE,24,Turkey,Turkish,Machine Learning,1,$30,3.7,NO,95%
+FL250181,Vanessa White,FEMALE,31,Argentina,Spanish,Mobile Apps,12,$20,2.3,NO,90%
+FL250182,Jennifer Garcia,FEMALE,20,Mexico,Spanish,Graphic Design,2,$20,2.8,NO,78%
+FL250183,Michael Zavala,MALE,38,Japan,Japanese,Web Development,3,$30,3.5,NO,97%
+FL250185,Elizabeth Jenkins,FEMALE,31,Australia,English,Web Development,4,$40,3.2,YES,78%
+FL250186,Brandon Ford,MALE,41,Spain,Spanish,Machine Learning,21,$50,3.3,YES,65%
+FL250188,Henry Mullen,MALE,50,Mexico,Spanish,Data Analysis,6,$30,2.2,YES,95%
+FL250189,Jesse Cochran,MALE,48,Brazil,Portuguese,Machine Learning,18,$40,,YES,88%
+FL250191,Patrick Dunlap,MALE,21,South Korea,Korean,Graphic Design,1,$75,4.6,NO,92%
+FL250192,Troy Carson,MALE,58,Australia,English,Graphic Design,20,$75,2.8,NO,75%
+FL250193,Matthew Smith,MALE,41,Italy,Italian,DevOps,,$30,1.4,NO,74%
+FL250194,Jennifer Cherry,FEMALE,58,Russia,Russian,Blockchain Development,25,$30,4.2,YES,71%
+FL250195,Brandi Tucker,FEMALE,50,South Africa,Afrikaans,Graphic Design,20,$40,3.6,YES,89%
+FL250197,Thomas Jones,MALE,34,Netherlands,Dutch,Data Analysis,6,$100,2,NO,
+FL250198,Brian Dunn,MALE,32,France,French,Machine Learning,11,$40,4.3,YES,86%
+FL250199,Shirley Strickland,FEMALE,50,India,Hindi,Graphic Design,28,$100,4.9,YES,86%
+FL250200,Nicole Meyers,FEMALE,39,Argentina,Spanish,Data Analysis,11,$100,3.5,YES,82%
+FL250201,Jill Stephens,FEMALE,25,Spain,Spanish,AI,2,$100,2.5,NO,87
+FL250202,Heidi Miranda,FEMALE,55,China,Mandarin,Machine Learning,7,$100,1.7,YES,80%
+FL250203,Jesus Martinez,MALE,42,Italy,Italian,DevOps,10,$100,4.6,YES,71%
+FL250204,Adam Payne,MALE,43,Russia,Russian,Mobile Apps,6,$50,,NO,77%
+FL250205,Walter Williams,MALE,54,Italy,Italian,DevOps,29,$30,1.7,NO,68
+FL250206,Shannon Farmer,FEMALE,21,Egypt,Arabic,Graphic Design,0,$20,1.8,NO,91%
+FL250207,Peter Reyes,MALE,46,Canada,English,UI/UX Design,5,$20,2.2,NO,75%
+FL250208,Kristen Knight,FEMALE,30,Spain,Spanish,Blockchain Development,11,$40,1,NO,90%
+FL250209,William Moore Jr.,MALE,36,China,Mandarin,Machine Learning,11,$75,3.2,NO,93
+FL250210,Jennifer Rowe,FEMALE,47,Germany,German,Data Analysis,15,$40,2.1,YES,94%
+FL250211,Mikayla Henry,FEMALE,43,Canada,English,Mobile Apps,1,$50,4.6,YES,64
+FL250212,Jacob Kerr,MALE,57,South Korea,Korean,Cybersecurity,8,$20,0,YES,84%
+FL250213,Ryan Johnson,MALE,52,Italy,Italian,Machine Learning,30,$20,2.8,NO,87%
+FL250214,Michael Ruiz,MALE,,Germany,German,Blockchain Development,8,$40,0,NO,64%
+FL250215,Monica Roberts,FEMALE,22,Indonesia,Indonesian,Machine Learning,0,$100,2.7,YES,64%
+FL250216,Danny Brown,MALE,,India,Hindi,Machine Learning,12,$20,0,YES,80%
+FL250217,Karen Larsen,FEMALE,58,Spain,Spanish,Mobile Apps,4,$50,3.1,NO,90%
+FL250218,Robert Evans,MALE,39,South Korea,Korean,Web Development,14,$100,0,YES,92%
+FL250220,Richard Quinn,MALE,37,Canada,English,UI/UX Design,2,$30,2.3,YES,
+FL250221,Jennifer Gonzalez,FEMALE,21,China,Mandarin,Cybersecurity,2,$100,2.4,YES,
+FL250223,Michelle Hill,FEMALE,21,Canada,English,AI,0,$40,1.1,NO,79%
+FL250224,Jacqueline Williams,FEMALE,58,China,Mandarin,Machine Learning,9,$30,0,YES,65%
+FL250225,Darrell Johnson,MALE,60,Canada,English,Machine Learning,3,$40,4.7,NO,63%
+FL250226,Ryan Crawford,MALE,27,South Africa,Afrikaans,Web Development,2,$40,1.2,NO,
+FL250227,Chelsea Barber,FEMALE,29,Germany,German,Machine Learning,10,$40,1.2,NO,78%
+FL250228,Elaine Martinez,FEMALE,54,Canada,English,Graphic Design,33,$75,0,YES,62%
+FL250229,Joseph Kent,MALE,52,Mexico,Spanish,Machine Learning,12,$40,1.2,NO,76%
+FL250230,Megan Welch,FEMALE,55,Indonesia,Indonesian,Blockchain Development,18,$100,2.9,NO,97
+FL250232,Chloe Gray,FEMALE,34,Egypt,Arabic,Data Analysis,11,$50,3.9,YES,82%
+FL250235,Julia Murphy,FEMALE,23,South Korea,Korean,Graphic Design,2,$50,3.2,YES,
+FL250236,Anna Evans,FEMALE,53,South Korea,Korean,Blockchain Development,34,$30,,YES,
+FL250237,Brenda Fleming,FEMALE,56,South Korea,Korean,Graphic Design,27,$100,4.7,YES,69%
+FL250238,Daniel Harrington,MALE,27,Canada,English,AI,4,$75,5,NO,88%
+FL250239,Daniel Barnett,MALE,34,Italy,Italian,Mobile Apps,11,$40,,NO,67%
+FL250240,Mark Cummings,MALE,29,United States,English,Web Development,4,$50,4,NO,
+FL250242,Sarah Ho,FEMALE,32,Mexico,Spanish,AI,1,$100,4.7,NO,67%
+FL250245,Monica Murphy,FEMALE,35,United States,English,Mobile Apps,10,$50,1.4,YES,85%
+FL250246,Kristen Williams,FEMALE,47,United States,English,UI/UX Design,18,$40,3.4,NO,60
+FL250247,Nicole Wright,FEMALE,41,Turkey,Turkish,Blockchain Development,4,$40,2.7,YES,70
+FL250249,Zachary Jackson,MALE,34,China,Mandarin,Data Analysis,6,$75,1.9,YES,81%
+FL250250,Stephanie Carter,FEMALE,50,India,Hindi,Mobile Apps,5,$100,,YES,
+FL250251,Amy Olson,FEMALE,42,Mexico,Spanish,DevOps,19,$75,4.6,NO,78%
+FL250252,Fred Stark,MALE,43,Germany,German,UI/UX Design,6,$50,0,NO,81
+FL250253,Jacob Gill,MALE,34,Germany,German,Data Analysis,8,$75,1.8,YES,71%
+FL250254,Anthony Nichols,MALE,24,Spain,Spanish,Mobile Apps,3,$75,2,NO,
+FL250255,William Knapp,MALE,48,South Africa,Afrikaans,UI/UX Design,8,$30,5,YES,99%
+FL250256,Elizabeth Walker,FEMALE,39,South Korea,Korean,Data Analysis,12,$20,3.2,YES,66%
+FL250258,Carrie Little,FEMALE,44,Canada,English,Web Development,21,$100,2.9,NO,83%
+FL250259,Steven Jackson,MALE,37,Brazil,Portuguese,UI/UX Design,17,$20,0,YES,87
+FL250260,Mark Perry,MALE,50,Turkey,Turkish,Data Analysis,9,$30,3,NO,76
+FL250261,Cameron Spencer,MALE,50,Spain,Spanish,UI/UX Design,2,$50,1.6,NO,89%
+FL250262,Jennifer Holmes,FEMALE,28,France,French,Graphic Design,1,$20,3.6,YES,94%
+FL250264,Jeffery Tucker,MALE,42,Germany,German,DevOps,8,$30,3.6,YES,96%
+FL250265,Jacqueline Drake,FEMALE,37,Canada,English,Data Analysis,6,$20,2.7,YES,91%
+FL250266,Brian Bautista,MALE,21,India,Hindi,Blockchain Development,1,$100,2.1,YES,92%
+FL250269,Barbara Keith,FEMALE,39,Japan,Japanese,Web Development,21,$100,0,NO,91%
+FL250270,Heather Camacho,FEMALE,25,Japan,Japanese,Machine Learning,3,$50,2.8,YES,86
+FL250272,Jacqueline Peterson,FEMALE,35,South Africa,Afrikaans,UI/UX Design,10,$100,4.7,YES,84%
+FL250273,Nancy Long,FEMALE,,United Kingdom,English,Cybersecurity,5,$100,1.3,NO,60%
+FL250274,Mr. Juan Mitchell,MALE,35,Netherlands,Dutch,Blockchain Development,6,$75,1.6,YES,97%
+FL250276,Haley Yates,FEMALE,26,China,Mandarin,UI/UX Design,4,$100,3.6,NO,81%
+FL250277,Richard Mcguire,MALE,44,Russia,Russian,Machine Learning,18,$20,4.7,YES,88%
+FL250278,Stephanie Fisher,FEMALE,31,South Africa,Afrikaans,UI/UX Design,12,$40,,YES,100%
+FL250280,Meagan Walters,FEMALE,23,United Kingdom,English,Blockchain Development,4,$20,,NO,71%
+FL250281,David Powell,MALE,42,Indonesia,Indonesian,UI/UX Design,13,$20,4.7,NO,85%
+FL250282,Kelly Jones,FEMALE,48,India,Hindi,Mobile Apps,6,$30,,NO,96%
+FL250283,Dr. Michael Aguilar,MALE,42,Netherlands,Dutch,Graphic Design,10,$20,2.4,YES,92%
+FL250284,Alex Novak,MALE,52,South Korea,Korean,Cybersecurity,20,$50,,NO,79%
+FL250285,Ann Contreras,FEMALE,55,Japan,Japanese,Web Development,20,$75,2.9,NO,
+FL250286,Mary Reed,FEMALE,58,South Africa,Afrikaans,Cybersecurity,11,$50,0,NO,
+FL250287,Lauren Ross,FEMALE,46,South Korea,Korean,Machine Learning,12,$20,0,NO,89%
+FL250288,Candice Wise,FEMALE,45,Spain,Spanish,Machine Learning,1,$100,1.5,YES,100%
+FL250289,Joyce Humphrey,FEMALE,56,India,Hindi,Machine Learning,2,$30,1.9,YES,81%
+FL250290,James Carr,MALE,44,United Kingdom,English,Blockchain Development,13,$100,3.1,YES,95
+FL250292,Cathy Baldwin,FEMALE,27,Japan,Japanese,Web Development,7,$30,2.4,YES,66%
+FL250293,Christine Hart,FEMALE,49,India,Hindi,Blockchain Development,13,$100,4.2,YES,84%
+FL250294,Mike Stanley,MALE,53,Mexico,Spanish,Web Development,21,$50,1.4,NO,
+FL250295,Jeffrey Edwards,MALE,56,Australia,English,Web Development,19,$40,1.2,YES,82%
+FL250297,Mark Thompson,MALE,38,South Africa,Afrikaans,Data Analysis,3,$100,1.4,NO,73%
+FL250300,Beth Crane,FEMALE,,Netherlands,Dutch,Mobile Apps,6,$40,3.5,NO,76%
+FL250301,Miguel Rogers,MALE,46,India,Hindi,Machine Learning,13,$100,0,YES,97%
+FL250302,Thomas Robles,MALE,36,South Africa,Afrikaans,Data Analysis,9,$75,2.2,NO,95%
+FL250303,Joel Brown III,MALE,33,Russia,Russian,Web Development,2,$75,2.5,NO,65%
+FL250304,Olivia Schultz,FEMALE,37,Canada,English,Graphic Design,0,$50,4.7,NO,77%
+FL250305,Clayton Pena,MALE,20,Egypt,Arabic,Data Analysis,0,$20,3.9,NO,
+FL250306,Ashley Salazar,FEMALE,48,China,Mandarin,Data Analysis,2,$75,1.6,NO,67%
+FL250307,Robert Lucas,MALE,27,France,French,Cybersecurity,2,$50,,NO,84%
+FL250308,David Cox,MALE,34,South Korea,Korean,Mobile Apps,1,$30,3.6,YES,87%
+FL250309,Christian Campbell,MALE,55,Brazil,Portuguese,Machine Learning,14,$30,1.2,YES,91%
+FL250310,Mrs. Angela Ward,FEMALE,44,South Africa,Afrikaans,Machine Learning,14,$75,3,NO,78%
+FL250311,Lucas Chen,MALE,31,Netherlands,Dutch,UI/UX Design,2,$50,3.9,NO,
+FL250314,Ronald Smith,MALE,50,United States,English,Graphic Design,23,$40,3.6,YES,71%
+FL250315,Dakota Giles,MALE,39,Germany,German,Cybersecurity,,$75,3.6,YES,87%
+FL250316,Angela Castillo,FEMALE,26,Argentina,Spanish,Blockchain Development,3,$100,2.8,YES,61%
+FL250317,Allen Lee,MALE,,Netherlands,Dutch,DevOps,0,$100,5,NO,
+FL250318,Michael Rogers,MALE,32,Germany,German,Graphic Design,0,$100,1.4,YES,81%
+FL250320,William Nunez,MALE,32,Argentina,Spanish,Machine Learning,9,$40,4.6,YES,84%
+FL250321,Christopher Riggs,MALE,30,South Korea,Korean,Blockchain Development,4,$20,3.3,NO,
+FL250322,Kathryn Myers,FEMALE,37,Canada,English,Cybersecurity,0,$40,3.7,YES,
+FL250324,Justin Johnson,MALE,48,India,Hindi,Cybersecurity,18,$50,0,YES,64%
+FL250325,Paula Stevens,FEMALE,28,Japan,Japanese,Mobile Apps,9,$40,,YES,64%
+FL250326,Jennifer Allen,FEMALE,58,Spain,Spanish,Data Analysis,40,$75,3.4,YES,100%
+FL250327,Mark Hudson,MALE,30,Argentina,Spanish,Web Development,1,$40,1.6,YES,100
+FL250328,Jessica Smith,FEMALE,47,China,Mandarin,Mobile Apps,5,$20,1.9,NO,
+FL250329,Mike Dean,MALE,44,Argentina,Spanish,AI,4,$50,0,YES,83%
+FL250330,Jose Wilson,MALE,56,Italy,Italian,Machine Learning,13,$40,,YES,87%
+FL250331,Tammy Hill,FEMALE,53,United States,English,Mobile Apps,33,$100,,NO,75%
+FL250332,Nathaniel Flores,MALE,59,United Kingdom,English,Mobile Apps,22,$40,1.1,YES,61%
+FL250334,Patricia Miller,FEMALE,33,Germany,German,Mobile Apps,8,$30,3.6,YES,
+FL250335,Rebecca Schneider,FEMALE,21,Argentina,Spanish,Web Development,1,$20,,NO,99%
+FL250336,John Greene,MALE,54,United Kingdom,English,UI/UX Design,20,$50,4.4,NO,73
+FL250337,Brittany Mcdowell,FEMALE,33,United States,English,Graphic Design,11,$75,2.1,NO,96%
+FL250338,Lori Miller,FEMALE,57,Turkey,Turkish,Data Analysis,2,$40,0,NO,60%
+FL250339,Joseph Robinson,MALE,36,South Korea,Korean,Graphic Design,6,$20,1,YES,64%
+FL250340,Aaron Pruitt,MALE,50,Germany,German,Blockchain Development,20,$30,0,NO,
+FL250341,Victoria Miller,FEMALE,37,Canada,English,DevOps,,$20,4.9,NO,
+FL250342,Clarence Vega,MALE,53,Italy,Italian,AI,4,$30,4.7,NO,99%
+FL250343,Deborah Day,FEMALE,22,Italy,Italian,Blockchain Development,3,$40,2.1,NO,
+FL250344,Nicole Rocha,FEMALE,55,Netherlands,Dutch,Mobile Apps,33,$40,1.5,YES,71%
+FL250346,Emily Johnson,FEMALE,45,Turkey,Turkish,Web Development,23,$50,0,NO,66%
+FL250347,Richard Velasquez Jr.,MALE,36,France,French,Data Analysis,13,$40,,NO,78%
+FL250348,Kurt Wilson,MALE,23,Australia,English,DevOps,1,$20,4,YES,100
+FL250350,Lauren Lang,FEMALE,50,Brazil,Portuguese,Mobile Apps,18,$75,3.8,NO,67
+FL250351,Matthew Phillips,MALE,48,United States,English,Machine Learning,21,$50,4,NO,78%
+FL250352,Michael Andersen,MALE,23,Netherlands,Dutch,DevOps,1,$40,4.9,YES,78%
+FL250353,Amanda Mayo,FEMALE,49,Canada,English,Web Development,25,$30,3.4,NO,75%
+FL250354,Jessica Vance,FEMALE,47,Italy,Italian,Cybersecurity,12,$50,2.1,YES,67%
+FL250355,Alexa Gallegos,FEMALE,56,Japan,Japanese,Graphic Design,32,$40,0,YES,86%
+FL250356,Charles Pratt,MALE,58,Argentina,Spanish,UI/UX Design,,$100,4.5,NO,77
+FL250357,Brian Baker,MALE,32,South Korea,Korean,UI/UX Design,10,$30,3.8,NO,61%
+FL250360,John Webb,MALE,20,India,Hindi,Cybersecurity,2,$30,,YES,99%
+FL250361,Christopher Burton,MALE,56,Netherlands,Dutch,Data Analysis,9,$40,2.6,NO,61%
+FL250362,Bradley Aguilar,MALE,41,Japan,Japanese,Data Analysis,22,$50,1.6,YES,61%
+FL250363,Arthur Vasquez,MALE,25,Argentina,Spanish,Blockchain Development,5,$30,2.3,NO,91%
+FL250364,Angela Castro,FEMALE,44,Canada,English,Cybersecurity,6,$75,4.6,YES,72
+FL250366,Jackie Allen,FEMALE,40,South Korea,Korean,Blockchain Development,,$40,1.5,NO,96%
+FL250367,Brandon Williams,MALE,,China,Mandarin,AI,9,$40,1.7,YES,72
+FL250369,Scott Keller,MALE,33,South Korea,Korean,Machine Learning,,$40,4.3,YES,63%
+FL250370,Deborah Brown,FEMALE,31,Brazil,Portuguese,Machine Learning,3,$20,,NO,
+FL250371,Jennifer Lara,FEMALE,49,Italy,Italian,Data Analysis,15,$75,2.6,NO,83%
+FL250373,Gregory Garrison,MALE,45,India,Hindi,Data Analysis,19,$40,2.2,YES,78%
+FL250374,Chelsea Anderson,FEMALE,39,Netherlands,Dutch,Data Analysis,13,$30,1.1,YES,
+FL250375,Gerald Johnson,MALE,,Argentina,Spanish,Blockchain Development,,$50,2.1,YES,82%
+FL250376,Kevin Ellis,MALE,24,Germany,German,Cybersecurity,3,$30,2.3,NO,66%
+FL250378,Mary Brown,FEMALE,23,Germany,German,Machine Learning,4,$20,4.7,YES,84%
+FL250379,Ronald Walls,MALE,27,Canada,English,Cybersecurity,8,$20,4.8,NO,81%
+FL250380,Anthony Avila,MALE,58,South Africa,Afrikaans,AI,10,$75,4.2,NO,71
+FL250382,James Mills,MALE,39,Spain,Spanish,Blockchain Development,18,$75,4,YES,66%
+FL250383,Nicole Marks,FEMALE,46,Egypt,Arabic,Data Analysis,10,$20,2.5,YES,97%
+FL250384,Phyllis Dawson,FEMALE,,United Kingdom,English,UI/UX Design,0,$20,4.8,NO,74%
+FL250385,Renee Arnold,FEMALE,39,Mexico,Spanish,Blockchain Development,21,$30,4.7,NO,61%
+FL250386,Eric Robinson,MALE,59,Egypt,Arabic,Blockchain Development,25,$20,4,NO,90%
+FL250387,Paul Brown,MALE,21,Netherlands,Dutch,DevOps,0,$40,4.1,YES,97%
+FL250388,Sarah Proctor,FEMALE,23,Canada,English,DevOps,5,$100,3.2,YES,
+FL250389,Matthew Hicks,MALE,27,Egypt,Arabic,Web Development,1,$20,4.3,NO,76%
+FL250390,Christopher Black,MALE,27,China,Mandarin,Cybersecurity,4,$40,4.4,NO,92%
+FL250391,Joanne Reyes,FEMALE,48,South Africa,Afrikaans,Data Analysis,21,$40,2.3,NO,
+FL250392,Isaac Gray,MALE,21,South Africa,Afrikaans,AI,1,$20,2.4,YES,66%
+FL250393,Joshua Roberts,MALE,37,Italy,Italian,DevOps,,$50,4.6,NO,83%
+FL250394,Elizabeth Estrada,FEMALE,31,Germany,German,UI/UX Design,10,$50,0,NO,
+FL250396,Anthony Huynh MD,MALE,31,Russia,Russian,Cybersecurity,0,$20,4.2,YES,82
+FL250397,Mindy York,FEMALE,58,Argentina,Spanish,Data Analysis,0,$50,2.3,NO,77%
+FL250398,Ms. Christine Cherry,FEMALE,45,Netherlands,Dutch,Data Analysis,17,$50,4.7,YES,73%
+FL250400,Mr. David Valencia,MALE,54,United States,English,UI/UX Design,3,$30,2.4,NO,81%
+FL250401,Ethan Adams,MALE,22,Russia,Russian,Data Analysis,1,$20,1.7,NO,78%
+FL250402,Brett Moore,MALE,36,Turkey,Turkish,Cybersecurity,2,$75,0,NO,92%
+FL250403,Phillip Griffin,MALE,50,Germany,German,DevOps,32,$30,,NO,64%
+FL250404,Stacie Wall,FEMALE,41,Australia,English,Blockchain Development,14,$30,0,YES,78%
+FL250405,Jacob Austin,MALE,,South Africa,Afrikaans,Web Development,10,$20,1.8,YES,85
+FL250406,Sabrina Davidson,FEMALE,51,Netherlands,Dutch,Cybersecurity,27,$50,0,NO,78%
+FL250407,Dustin Douglas,MALE,21,France,French,AI,2,$30,3.8,YES,98%
+FL250408,Steven Norris,MALE,51,Japan,Japanese,AI,33,$40,0,YES,63%
+FL250409,Mindy Sullivan,FEMALE,37,Indonesia,Indonesian,Graphic Design,11,$40,3.6,NO,73%
+FL250410,Elizabeth Stone,FEMALE,20,Spain,Spanish,Graphic Design,2,$30,0,NO,94%
+FL250412,Jessica Erickson,FEMALE,58,Turkey,Turkish,Graphic Design,17,$50,2.6,YES,61%
+FL250413,Sara Moses,FEMALE,40,Brazil,Portuguese,UI/UX Design,2,$100,0,NO,
+FL250414,Allison Henderson,FEMALE,26,Egypt,Arabic,Web Development,2,$20,1.3,NO,83%
+FL250415,Susan Dixon,FEMALE,44,South Korea,Korean,Cybersecurity,22,$30,4.1,YES,
+FL250416,David Morrison,MALE,42,Mexico,Spanish,Machine Learning,8,$50,2.4,NO,68%
+FL250417,Jason Carter,MALE,38,Mexico,Spanish,Data Analysis,9,$50,0,NO,74%
+FL250418,James Jacobs,MALE,51,Egypt,Arabic,Web Development,32,$100,4.4,NO,91
+FL250419,Kathleen Quinn,FEMALE,36,France,French,AI,8,$100,2.2,YES,97%
+FL250420,Natalie Frank MD,FEMALE,37,Australia,English,Mobile Apps,10,$30,0,NO,96%
+FL250421,Michael Reed,MALE,31,South Africa,Afrikaans,DevOps,0,$50,1.1,YES,73%
+FL250423,Morgan Ford,FEMALE,60,Mexico,Spanish,UI/UX Design,34,$100,0,YES,74%
+FL250424,Linda Schultz,FEMALE,48,Argentina,Spanish,Mobile Apps,5,$30,1.5,NO,
+FL250425,Regina Daniel,FEMALE,24,India,Hindi,AI,3,$20,0,YES,
+FL250427,Bradley Weaver,MALE,35,United States,English,DevOps,,$100,3.5,YES,71%
+FL250432,Dr. Paul Williamson,MALE,40,India,Hindi,AI,13,$100,1.1,YES,
+FL250433,Barbara Brown,FEMALE,53,Netherlands,Dutch,Machine Learning,13,$50,3.3,YES,93%
+FL250435,Elizabeth Edwards,FEMALE,27,Argentina,Spanish,Machine Learning,7,$75,2.8,YES,92%
+FL250436,Anthony Downs,MALE,34,Australia,English,DevOps,6,$50,5,YES,92%
+FL250437,Jack Ortega,MALE,24,India,Hindi,Cybersecurity,2,$75,4.7,NO,68%
+FL250438,Marvin Moore,MALE,57,United States,English,UI/UX Design,13,$100,3.5,NO,95%
+FL250439,Tony French,MALE,28,South Korea,Korean,UI/UX Design,7,$100,4.3,NO,76%
+FL250440,Stacy Hudson,FEMALE,26,Italy,Italian,DevOps,7,$100,3.3,YES,66%
+FL250441,Scott Washington,MALE,34,Argentina,Spanish,Mobile Apps,15,$75,,NO,73%
+FL250444,Andrea Perez,FEMALE,34,China,Mandarin,Blockchain Development,,$50,0,NO,84
+FL250445,Angel Collins,FEMALE,32,Russia,Russian,Cybersecurity,10,$20,,YES,92%
+FL250446,Daniel Terry,MALE,24,Egypt,Arabic,DevOps,6,$75,4.3,YES,
+FL250447,Steven Whitaker,MALE,35,United Kingdom,English,AI,8,$50,,NO,90
+FL250448,Denise Neal,FEMALE,22,Australia,English,Mobile Apps,4,$20,,NO,73%
+FL250449,Amanda Jacobs,FEMALE,55,Egypt,Arabic,AI,3,$100,,YES,73%
+FL250450,Karen Mercer,FEMALE,54,Argentina,Spanish,Machine Learning,,$30,2.9,YES,78%
+FL250451,Lindsay Hudson,FEMALE,36,Netherlands,Dutch,Cybersecurity,11,$30,0,YES,63%
+FL250453,Dr. Jessica Campbell,FEMALE,25,Argentina,Spanish,Web Development,1,$75,0,YES,
+FL250454,Curtis Maxwell,MALE,46,Indonesia,Indonesian,AI,16,$20,4.8,YES,86%
+FL250455,Adam Kelly PhD,MALE,41,Argentina,Spanish,Machine Learning,11,$40,2.4,NO,
+FL250456,Julie Becker,FEMALE,21,Russia,Russian,Mobile Apps,3,$100,4.7,NO,96%
+FL250457,James Moore,MALE,29,United States,English,Graphic Design,,$75,2,NO,
+FL250458,Danielle Barrera,FEMALE,44,United States,English,Mobile Apps,3,$50,2.2,NO,77%
+FL250459,David Sanchez,MALE,40,Canada,English,Machine Learning,1,$100,2.1,YES,
+FL250460,Tiffany Bowman,FEMALE,27,Egypt,Arabic,Data Analysis,1,$30,1.7,NO,65%
+FL250462,Mr. Danny Morris DDS,MALE,20,Turkey,Turkish,Data Analysis,1,$50,2.9,NO,81%
+FL250463,Nicole York,FEMALE,,Japan,Japanese,DevOps,12,$50,4.1,YES,62%
+FL250464,John Mathis,MALE,26,Mexico,Spanish,Web Development,8,$40,4.9,NO,87%
+FL250465,Julie Barnett,FEMALE,49,Brazil,Portuguese,Machine Learning,13,$100,2.5,NO,
+FL250466,Jasmine Harris,FEMALE,20,Egypt,Arabic,Data Analysis,0,$30,0,YES,76
+FL250468,Judith Riggs,FEMALE,41,China,Mandarin,Machine Learning,19,$100,3.8,YES,71%
+FL250469,Justin Ruiz,MALE,59,Canada,English,Mobile Apps,30,$30,4.3,YES,83%
+FL250470,Jennifer Sullivan,FEMALE,45,Australia,English,Blockchain Development,8,$40,0,NO,78
+FL250471,Jesse Moran,MALE,22,Indonesia,Indonesian,Cybersecurity,0,$40,1.3,YES,78%
+FL250472,Monica Smith,FEMALE,48,India,Hindi,Mobile Apps,7,$50,4.7,YES,60%
+FL250473,Ian May,MALE,36,France,French,Blockchain Development,11,$40,1.3,YES,
+FL250474,Kayla Meyers,FEMALE,57,China,Mandarin,Blockchain Development,,$75,4.8,YES,
+FL250475,John Bray,MALE,42,United States,English,UI/UX Design,14,$30,1.3,NO,94%
+FL250476,James Smith,MALE,31,Indonesia,Indonesian,Cybersecurity,11,$50,4.3,NO,62
+FL250477,Mark Duncan,MALE,52,Spain,Spanish,Cybersecurity,31,$30,,YES,
+FL250478,Matthew Gay,MALE,56,Netherlands,Dutch,DevOps,16,$30,0,YES,
+FL250479,Cheryl Freeman,FEMALE,24,Netherlands,Dutch,DevOps,6,$30,0,YES,84%
+FL250480,Patrick Welch,MALE,48,Canada,English,DevOps,21,$75,2.7,YES,
+FL250481,Craig Levine,MALE,59,France,French,Cybersecurity,13,$40,2.4,NO,65
+FL250482,Richard Harvey,MALE,,United Kingdom,English,Web Development,,$40,1.9,YES,94%
+FL250483,Bonnie Sherman,FEMALE,,Netherlands,Dutch,Mobile Apps,11,$20,3.6,NO,69%
+FL250484,Keith Trujillo,MALE,25,Netherlands,Dutch,Mobile Apps,0,$50,2.9,YES,65%
+FL250485,Corey Combs,MALE,31,Egypt,Arabic,Mobile Apps,2,$75,2.8,NO,60%
+FL250486,Antonio King,MALE,40,Turkey,Turkish,DevOps,12,$75,2.6,NO,
+FL250488,Jennifer Rogers,FEMALE,24,South Africa,Afrikaans,Mobile Apps,6,$30,1.1,YES,
+FL250489,Jeffrey Cooper,MALE,33,Indonesia,Indonesian,Web Development,10,$30,0,YES,89%
+FL250490,Allison Williams,FEMALE,43,Brazil,Portuguese,UI/UX Design,2,$40,0,YES,89%
+FL250491,Raymond Sherman,MALE,43,Spain,Spanish,Blockchain Development,4,$50,0,YES,100%
+FL250494,Todd Williams,MALE,55,Canada,English,UI/UX Design,10,$40,2,NO,85%
+FL250496,Lance Lester,MALE,32,Argentina,Spanish,AI,3,$30,1.5,NO,96%
+FL250498,Aaron Stewart PhD,MALE,49,Indonesia,Indonesian,Data Analysis,24,$100,4.7,NO,60%
+FL250499,Robin Moore,FEMALE,22,Russia,Russian,UI/UX Design,3,$100,3.6,YES,78%
+FL250500,Suzanne Ingram,FEMALE,40,Egypt,Arabic,Web Development,11,$20,1.8,YES,90%
+FL250501,Jacob Mclaughlin,MALE,55,Australia,English,Data Analysis,7,$100,2.1,NO,66%
+FL250502,Michael Nunez,MALE,32,Mexico,Spanish,DevOps,1,$50,,YES,70%
+FL250503,Isabel Brown,FEMALE,21,Japan,Japanese,UI/UX Design,0,$30,4.2,YES,79%
+FL250504,Michael Stein,MALE,23,South Korea,Korean,Blockchain Development,1,$40,0,NO,64%
+FL250505,Robert Stone,MALE,21,United Kingdom,English,Mobile Apps,1,$30,1,NO,81%
+FL250506,Dillon Henry,MALE,31,Argentina,Spanish,AI,7,$75,4.4,NO,83%
+FL250507,James Todd,MALE,21,Mexico,Spanish,Blockchain Development,,$40,4,NO,91%
+FL250508,Clifford Moore MD,MALE,33,United Kingdom,English,Cybersecurity,6,$50,3.1,NO,
+FL250509,John Rios,MALE,57,Brazil,Portuguese,Web Development,5,$75,1.1,YES,77%
+FL250510,Anthony Gaines,MALE,52,United States,English,DevOps,17,$75,0,NO,94%
+FL250511,Kristi Brown DVM,FEMALE,21,Germany,German,Web Development,0,$20,3.8,YES,61%
+FL250512,Ashley Odonnell,FEMALE,36,Argentina,Spanish,UI/UX Design,8,$100,1.7,NO,68%
+FL250513,Ronald Elliott,MALE,33,Spain,Spanish,Machine Learning,13,$50,2.2,NO,70%
+FL250514,Lorraine Lowery,FEMALE,54,United Kingdom,English,Data Analysis,15,$40,4.1,YES,71
+FL250515,Victoria Chapman,FEMALE,33,United States,English,Blockchain Development,2,$100,3.8,NO,
+FL250516,Heather Davis,FEMALE,36,Japan,Japanese,Machine Learning,9,$30,0,YES,78%
+FL250517,Diana Chase,FEMALE,36,Turkey,Turkish,AI,3,$50,0,NO,75
+FL250518,Danielle Adkins,FEMALE,43,China,Mandarin,AI,15,$20,4.2,YES,91%
+FL250519,Kenneth Arias,MALE,52,United Kingdom,English,Data Analysis,21,$75,2.2,YES,66%
+FL250520,Victoria Owen,FEMALE,28,Indonesia,Indonesian,Cybersecurity,2,$75,1.5,YES,68%
+FL250521,Christina King,FEMALE,47,China,Mandarin,Cybersecurity,21,$100,0,NO,
+FL250522,Samantha King,FEMALE,30,France,French,DevOps,0,$100,4.1,NO,62%
+FL250523,Scott Compton,MALE,36,Egypt,Arabic,Blockchain Development,4,$40,2.6,NO,90%
+FL250524,Monica West,FEMALE,45,United States,English,UI/UX Design,23,$100,2.4,NO,96%
+FL250525,Theresa Stewart,FEMALE,51,United States,English,Blockchain Development,25,$50,1.4,YES,60%
+FL250527,Kristi Knight,FEMALE,38,Italy,Italian,Data Analysis,18,$40,4.9,NO,74%
+FL250528,Jason Bryant,MALE,26,Spain,Spanish,Blockchain Development,1,$20,0,YES,
+FL250531,William Davis,MALE,28,Canada,English,Blockchain Development,5,$50,0,YES,96
+FL250532,Stacy Bailey,FEMALE,48,India,Hindi,Mobile Apps,28,$20,0,NO,88%
+FL250534,Maria Hall,FEMALE,41,Germany,German,Web Development,14,$40,1.1,YES,73%
+FL250537,Maria Benitez,FEMALE,30,China,Mandarin,Mobile Apps,9,$30,3.9,NO,65%
+FL250538,Joshua Chambers,MALE,51,Mexico,Spanish,UI/UX Design,22,$20,3.4,YES,90
+FL250539,Janice Daniels,FEMALE,21,Germany,German,DevOps,0,$20,2.6,NO,72%
+FL250540,Carla Wood,FEMALE,20,Italy,Italian,DevOps,1,$40,2.3,YES,72%
+FL250541,Kenneth Vasquez,MALE,30,Japan,Japanese,Blockchain Development,5,$30,4.8,NO,
+FL250542,Kevin Smith,MALE,41,China,Mandarin,Data Analysis,0,$40,4.5,NO,68%
+FL250543,Thomas Kim,MALE,22,Spain,Spanish,Blockchain Development,0,$30,0,NO,87%
+FL250544,Sean Park,MALE,45,Mexico,Spanish,Cybersecurity,19,$75,0,NO,72%
+FL250545,Judith Poole,FEMALE,22,Australia,English,Data Analysis,2,$40,1.1,NO,76%
+FL250546,Melanie Baird,FEMALE,20,Turkey,Turkish,Mobile Apps,0,$100,0,NO,63
+FL250547,Erika Mitchell,FEMALE,20,Canada,English,Data Analysis,2,$40,,YES,91%
+FL250548,Ricky Martinez,MALE,21,United Kingdom,English,AI,0,$100,,NO,73%
+FL250549,John Christian,MALE,22,Netherlands,Dutch,Cybersecurity,1,$40,0,NO,63%
+FL250550,Nancy Smith,FEMALE,28,United Kingdom,English,DevOps,3,$20,,YES,79%
+FL250551,Cassandra Stephens,FEMALE,59,Argentina,Spanish,AI,,$20,4.1,NO,75
+FL250554,Wayne Barnes,MALE,57,Italy,Italian,Blockchain Development,7,$30,1.6,NO,
+FL250555,James Hinton,MALE,47,Turkey,Turkish,DevOps,1,$50,3.9,YES,88%
+FL250556,David Spence,MALE,48,South Korea,Korean,Cybersecurity,21,$40,0,YES,
+FL250557,Tyler Cooper,MALE,28,United States,English,UI/UX Design,1,$20,4.7,NO,93%
+FL250559,Janet Barron,FEMALE,57,South Africa,Afrikaans,Cybersecurity,33,$100,3.5,NO,74%
+FL250561,Kimberly Fitzgerald,FEMALE,48,Egypt,Arabic,Graphic Design,21,$30,1.6,YES,67%
+FL250562,Nicole Davis,FEMALE,24,France,French,Cybersecurity,5,$40,3,NO,86%
+FL250563,Elizabeth Hayes,FEMALE,33,Mexico,Spanish,DevOps,11,$50,5,YES,69%
+FL250564,Kathy Faulkner,FEMALE,20,Turkey,Turkish,Graphic Design,0,$30,4.8,YES,68%
+FL250565,John Gonzales,MALE,59,United Kingdom,English,DevOps,15,$50,,NO,
+FL250568,Kevin Gonzales,MALE,41,Canada,English,Cybersecurity,11,$50,3.5,YES,68%
+FL250569,Dawn Hardy,FEMALE,25,Argentina,Spanish,Web Development,5,$40,,YES,75%
+FL250570,Margaret Perkins,FEMALE,38,Canada,English,UI/UX Design,3,$40,4.7,NO,69%
+FL250572,Tonya Gonzalez,FEMALE,54,Mexico,Spanish,AI,1,$75,4.4,YES,
+FL250573,Elizabeth Bowman,FEMALE,31,Indonesia,Indonesian,Mobile Apps,2,$40,2.3,NO,98%
+FL250576,Justin Lang,MALE,60,Egypt,Arabic,AI,,$100,0,YES,96%
+FL250577,Kelli Ramirez,FEMALE,28,South Korea,Korean,Graphic Design,2,$50,,YES,85%
+FL250578,Deborah Torres,FEMALE,43,Indonesia,Indonesian,Web Development,20,$30,2.7,NO,72%
+FL250580,Christopher Robinson,MALE,41,United Kingdom,English,DevOps,0,$20,3.1,NO,90
+FL250581,Sandra Mccormick,FEMALE,40,United Kingdom,English,Mobile Apps,20,$20,2.3,NO,92%
+FL250582,Michael Holland,MALE,45,Germany,German,DevOps,3,$20,1.3,YES,91%
+FL250583,Kenneth Stevenson,MALE,47,Egypt,Arabic,DevOps,28,$50,2.9,YES,
+FL250584,Timothy Bennett,MALE,34,India,Hindi,Data Analysis,0,$40,3.3,NO,98%
+FL250586,Charles Martinez,MALE,32,Mexico,Spanish,UI/UX Design,9,$40,1.3,YES,83%
+FL250587,James Hall,MALE,28,United Kingdom,English,Mobile Apps,2,$100,4.4,YES,
+FL250588,Michael Garcia,MALE,32,Australia,English,DevOps,1,$100,3.4,YES,
+FL250589,Michele Duran,FEMALE,49,Netherlands,Dutch,AI,2,$100,3.4,YES,85%
+FL250591,Keith Shaffer,MALE,59,Mexico,Spanish,Blockchain Development,22,$20,3.6,NO,63%
+FL250592,Jessica Decker,FEMALE,52,Canada,English,Cybersecurity,22,$20,0,NO,
+FL250593,Brianna Pittman,FEMALE,24,China,Mandarin,Blockchain Development,5,$40,1.8,YES,86%
+FL250594,Kimberly Hunter,FEMALE,26,Australia,English,Graphic Design,2,$75,2.5,YES,60
+FL250595,Daniel Martin,MALE,55,Canada,English,Cybersecurity,24,$40,2,YES,88
+FL250596,Rachel Smith,FEMALE,56,Italy,Italian,Mobile Apps,37,$40,0,NO,70%
+FL250597,Michael Miller,MALE,36,France,French,Graphic Design,3,$50,1.3,YES,77%
+FL250598,Willie Clark,MALE,48,Argentina,Spanish,Web Development,18,$75,0,NO,80%
+FL250599,Jeremy Hernandez,MALE,55,Egypt,Arabic,Machine Learning,6,$40,3.6,YES,
+FL250601,Dr. Pamela Larson,FEMALE,28,Canada,English,Blockchain Development,1,$75,2.7,YES,93%
+FL250603,Mark Cochran,MALE,34,South Korea,Korean,Blockchain Development,15,$20,0,NO,100%
+FL250604,Martha Carson,FEMALE,38,Indonesia,Indonesian,AI,13,$40,0,YES,61
+FL250605,Heather Jackson,FEMALE,51,South Korea,Korean,Web Development,17,$100,3,NO,79%
+FL250608,Thomas Mooney,MALE,27,Brazil,Portuguese,Web Development,9,$100,,YES,
+FL250609,Susan Smith,FEMALE,42,Turkey,Turkish,Mobile Apps,20,$50,3.8,NO,93%
+FL250610,Brianna Orr,FEMALE,52,Canada,English,Blockchain Development,29,$30,3.8,NO,68%
+FL250611,Dustin Smith,MALE,53,South Korea,Korean,Web Development,21,$40,4.7,YES,62%
+FL250612,Sarah White,FEMALE,54,Italy,Italian,Mobile Apps,28,$40,1.1,NO,
+FL250613,Michael Davis,MALE,51,Japan,Japanese,Graphic Design,5,$50,4.2,YES,82%
+FL250616,Daniel Quinn,MALE,57,Indonesia,Indonesian,Graphic Design,26,$100,2.4,YES,78%
+FL250617,Matthew Steele,MALE,38,Turkey,Turkish,Blockchain Development,19,$40,0,YES,86%
+FL250618,Michele Taylor,FEMALE,42,Russia,Russian,DevOps,24,$40,,NO,88%
+FL250620,Nicole Taylor,FEMALE,43,Australia,English,Web Development,13,$100,1.4,YES,97%
+FL250621,Casey Bush,MALE,22,Egypt,Arabic,UI/UX Design,2,$75,1.7,NO,91%
+FL250622,Samuel Patterson,MALE,57,Mexico,Spanish,Machine Learning,37,$30,4.8,NO,
+FL250624,Heidi Dixon,FEMALE,46,China,Mandarin,DevOps,5,$30,2,YES,64%
+FL250625,David Bishop,MALE,,Spain,Spanish,Blockchain Development,1,$50,2.8,NO,87%
+FL250626,Laura Butler,FEMALE,34,Australia,English,Data Analysis,2,$100,0,NO,86
+FL250627,Denise Erickson,FEMALE,46,Italy,Italian,Mobile Apps,,$100,4.4,YES,97
+FL250628,Nicole Austin,FEMALE,22,France,French,Blockchain Development,0,$30,4.9,NO,73%
+FL250630,Angela Blackwell,FEMALE,60,Turkey,Turkish,Web Development,41,$40,4.9,YES,66
+FL250631,Thomas Wall,MALE,20,Canada,English,DevOps,,$75,4.3,NO,90%
+FL250632,Sarah Anderson,FEMALE,41,South Korea,Korean,UI/UX Design,23,$75,1.4,NO,
+FL250633,Christian Lane,MALE,24,France,French,Mobile Apps,0,$100,,NO,
+FL250635,David Martinez,MALE,52,China,Mandarin,UI/UX Design,4,$75,2.3,YES,79%
+FL250636,Donald Salas,MALE,35,Spain,Spanish,Machine Learning,13,$40,3.6,NO,83%
+FL250637,Emma Hicks,FEMALE,24,Netherlands,Dutch,DevOps,2,$50,,NO,64%
+FL250638,Alison Clark,FEMALE,46,Australia,English,Cybersecurity,25,$100,1.3,NO,80%
+FL250639,Andrew Barnes,MALE,57,Mexico,Spanish,Mobile Apps,18,$30,1.1,NO,90%
+FL250640,Gina Snyder,FEMALE,49,Mexico,Spanish,Web Development,24,$50,0,NO,94%
+FL250641,David Watson,MALE,41,Japan,Japanese,AI,7,$40,1.8,NO,70%
+FL250642,John Davis,MALE,22,Mexico,Spanish,Machine Learning,1,$20,,YES,75%
+FL250643,Joseph Thomas,MALE,50,Australia,English,Blockchain Development,17,$75,3.3,YES,69%
+FL250644,Dean Finley,MALE,57,Germany,German,Graphic Design,4,$30,4.2,NO,
+FL250645,Ashley Kemp,FEMALE,47,Mexico,Spanish,AI,29,$50,,YES,79%
+FL250646,Kenneth Evans,MALE,24,South Africa,Afrikaans,Data Analysis,2,$100,3.8,YES,71%
+FL250647,Brandon Newman,MALE,,India,Hindi,Cybersecurity,9,$100,4.8,YES,72%
+FL250648,Katie Hensley,FEMALE,50,Germany,German,DevOps,10,$100,4.3,NO,93%
+FL250650,Andrew Scott,MALE,51,Australia,English,Cybersecurity,9,$40,,NO,60
+FL250651,Zachary Ochoa,MALE,51,United Kingdom,English,AI,12,$20,4,NO,93
+FL250652,John Arroyo,MALE,27,United Kingdom,English,AI,3,$50,,NO,
+FL250653,Matthew Fernandez,MALE,42,Spain,Spanish,Web Development,13,$30,0,NO,74%
+FL250654,Benjamin Stark,MALE,25,Germany,German,UI/UX Design,4,$40,2.3,YES,73
+FL250655,Tammy Greer,FEMALE,32,Germany,German,Data Analysis,9,$75,,NO,96%
+FL250657,Wendy Rice,FEMALE,59,France,French,Cybersecurity,37,$30,4,NO,62%
+FL250658,Randy Bender,MALE,29,Germany,German,Graphic Design,2,$75,2.2,YES,85%
+FL250659,Richard Dominguez,MALE,58,China,Mandarin,AI,11,$100,4.3,NO,66%
+FL250660,Melissa Maldonado,FEMALE,56,Canada,English,Cybersecurity,19,$20,0,NO,87%
+FL250661,Leah Harris,FEMALE,36,United States,English,Machine Learning,9,$20,0,YES,68
+FL250662,Lynn French,FEMALE,52,Canada,English,UI/UX Design,16,$100,4,YES,
+FL250664,Sarah Edwards,FEMALE,59,India,Hindi,Mobile Apps,34,$100,2,YES,79%
+FL250665,Roy Collins,MALE,33,Netherlands,Dutch,Mobile Apps,5,$50,4.7,YES,88%
+FL250666,Samantha Porter,FEMALE,55,Canada,English,Web Development,14,$50,3.6,YES,81%
+FL250667,Juan Elliott,MALE,47,South Korea,Korean,UI/UX Design,17,$50,1.2,NO,
+FL250669,Laura Evans,FEMALE,30,United Kingdom,English,DevOps,8,$100,1.4,YES,62
+FL250670,Amanda Mitchell,FEMALE,25,Canada,English,DevOps,1,$30,3.2,NO,87%
+FL250672,Eric Johnson,MALE,29,South Korea,Korean,Blockchain Development,0,$75,1.5,YES,64%
+FL250674,Jacob Jones,MALE,47,Egypt,Arabic,AI,2,$50,2.7,NO,96
+FL250676,Joshua Owens,MALE,45,United States,English,Graphic Design,16,$100,4.6,NO,78%
+FL250677,Dawn Mitchell,FEMALE,56,Spain,Spanish,Cybersecurity,27,$20,2.2,NO,70%
+FL250678,Regina Dunn,FEMALE,49,China,Mandarin,DevOps,20,$50,2.5,NO,82%
+FL250680,Hannah Sanders,FEMALE,29,South Korea,Korean,Graphic Design,0,$20,,YES,99%
+FL250681,Ellen Bowman,FEMALE,49,Netherlands,Dutch,Web Development,11,$75,3.8,YES,93%
+FL250682,Nancy Moore,FEMALE,22,China,Mandarin,Blockchain Development,1,$100,4.8,YES,75%
+FL250684,Michael Harrell,MALE,60,Canada,English,Blockchain Development,7,$30,0,NO,97%
+FL250685,Connie Mcclain,FEMALE,33,Japan,Japanese,UI/UX Design,0,$100,1.7,YES,95
+FL250687,Danielle Nelson,FEMALE,25,Germany,German,DevOps,7,$100,1.9,NO,63%
+FL250688,Steven Moore,MALE,33,Japan,Japanese,Cybersecurity,,$30,4.4,YES,65%
+FL250690,Lisa Johnson,FEMALE,52,Canada,English,UI/UX Design,25,$100,4.8,NO,
+FL250691,Tracy White,FEMALE,20,Indonesia,Indonesian,Web Development,1,$30,2,NO,89%
+FL250692,Natalie Diaz,FEMALE,43,Russia,Russian,Data Analysis,7,$50,,YES,80%
+FL250693,Amanda Mitchell,FEMALE,31,France,French,Mobile Apps,,$50,1.4,NO,80%
+FL250694,Karen Scott,FEMALE,29,Germany,German,Data Analysis,6,$100,1.8,NO,
+FL250696,Jon Jones,MALE,38,India,Hindi,Mobile Apps,1,$40,0,NO,96%
+FL250697,Jason Phillips,MALE,29,Spain,Spanish,Graphic Design,,$20,0,NO,90%
+FL250699,Carol Schneider,FEMALE,54,United States,English,Machine Learning,9,$100,,NO,72%
+FL250700,Juan Hines,MALE,56,China,Mandarin,UI/UX Design,18,$50,4.4,YES,83%
+FL250701,Martha Sweeney,FEMALE,47,Turkey,Turkish,Graphic Design,22,$100,4.4,NO,70%
+FL250702,Jason Weaver,MALE,45,Russia,Russian,Blockchain Development,25,$50,0,NO,99
+FL250704,Daniel Lopez,MALE,35,Canada,English,Machine Learning,10,$20,3.2,YES,77%
+FL250705,John Simpson,MALE,51,Canada,English,DevOps,4,$50,2,NO,92%
+FL250706,Katrina Schultz,FEMALE,34,Spain,Spanish,Mobile Apps,11,$50,3.3,YES,76%
+FL250707,Danielle Bell,FEMALE,51,Indonesia,Indonesian,Graphic Design,1,$50,0,YES,97%
+FL250708,Jason Brady,MALE,58,Egypt,Arabic,Graphic Design,35,$100,2.3,YES,
+FL250709,Megan Bright,FEMALE,36,Netherlands,Dutch,Web Development,17,$20,0,YES,99
+FL250710,David Griffin,MALE,,Russia,Russian,AI,12,$30,2.6,YES,
+FL250711,Michael Clark,MALE,56,South Africa,Afrikaans,Machine Learning,30,$40,3.3,YES,82%
+FL250712,Rebecca Barker,FEMALE,58,Canada,English,Cybersecurity,20,$75,3.6,YES,78%
+FL250713,Angela Smith,FEMALE,58,United States,English,Cybersecurity,22,$100,3.7,NO,
+FL250714,Christina Wright,FEMALE,54,United Kingdom,English,AI,32,$20,3.4,NO,
+FL250715,Todd Turner,MALE,53,Australia,English,UI/UX Design,9,$50,4,YES,72%
+FL250717,Alex Smith,MALE,44,South Korea,Korean,Machine Learning,1,$75,4.3,YES,
+FL250718,Shane Hale,MALE,34,Canada,English,Cybersecurity,4,$75,4,YES,
+FL250719,Kathy Grimes,FEMALE,27,Brazil,Portuguese,Mobile Apps,8,$50,1.6,YES,
+FL250720,David Cherry,MALE,50,Japan,Japanese,Data Analysis,3,$100,0,YES,
+FL250721,Rachel Rogers,FEMALE,52,South Korea,Korean,UI/UX Design,30,$75,,NO,94%
+FL250722,Travis Braun,MALE,57,Spain,Spanish,Blockchain Development,11,$20,4.9,YES,
+FL250723,Shawna Palmer,FEMALE,53,Mexico,Spanish,DevOps,8,$20,2.8,YES,
+FL250724,Bradley Gaines,MALE,51,Turkey,Turkish,UI/UX Design,11,$30,3.6,YES,77%
+FL250725,April Ford,FEMALE,37,Canada,English,Cybersecurity,9,$50,,YES,84
+FL250727,John Castillo,MALE,60,Japan,Japanese,Data Analysis,24,$40,3.1,NO,69%
+FL250728,Ian Hayes,MALE,60,France,French,UI/UX Design,0,$40,4.9,YES,68%
+FL250729,Christine Castro,FEMALE,53,South Korea,Korean,UI/UX Design,21,$30,4.2,YES,73
+FL250730,Jessica Chaney,FEMALE,20,Mexico,Spanish,Blockchain Development,0,$75,3.2,YES,74%
+FL250731,John Gray,MALE,42,Russia,Russian,Web Development,7,$20,,NO,100%
+FL250732,Shane Booker,MALE,21,United Kingdom,English,Mobile Apps,3,$40,0,NO,87%
+FL250733,Kyle Hall,MALE,39,Germany,German,Web Development,21,$100,2.2,NO,79%
+FL250734,Ronald Munoz,MALE,32,India,Hindi,Blockchain Development,,$30,1.5,NO,68%
+FL250735,Christopher Long,MALE,35,Germany,German,Data Analysis,,$100,,NO,84%
+FL250736,Sandra Ali,FEMALE,35,France,French,UI/UX Design,17,$50,3.1,NO,71%
+FL250737,Jessica Garza,FEMALE,23,Argentina,Spanish,UI/UX Design,0,$75,0,NO,92%
+FL250738,Gregory Waters,MALE,26,Netherlands,Dutch,AI,6,$100,,NO,69%
+FL250741,Gregory Brown,MALE,57,Italy,Italian,Web Development,31,$50,3,YES,87%
+FL250742,Scott Alexander MD,MALE,46,Canada,English,Web Development,5,$30,2.6,NO,76%
+FL250743,Eric Nguyen,MALE,55,India,Hindi,AI,37,$75,4.1,NO,
+FL250744,Wendy Boyer,FEMALE,32,Australia,English,DevOps,10,$50,1.5,NO,65%
+FL250745,Mark Clark,MALE,53,Indonesia,Indonesian,AI,28,$50,2.9,YES,82%
+FL250746,Carl Kline,MALE,59,Mexico,Spanish,AI,0,$100,0,YES,87
+FL250747,Linda Williams,FEMALE,44,Netherlands,Dutch,Machine Learning,19,$40,4.9,NO,100%
+FL250748,Jason Edwards,MALE,35,Egypt,Arabic,Blockchain Development,9,$50,3,NO,71
+FL250749,Madison Mcintosh,FEMALE,42,China,Mandarin,Machine Learning,5,$30,4.9,YES,87
+FL250750,Desiree Winters,FEMALE,58,South Korea,Korean,Blockchain Development,0,$30,4.6,NO,70
+FL250751,Ryan Taylor,MALE,41,Netherlands,Dutch,AI,21,$100,2.2,YES,83%
+FL250752,Patricia Scott,FEMALE,,Argentina,Spanish,Web Development,0,$40,,YES,74%
+FL250753,Erin Jimenez,FEMALE,23,Canada,English,Blockchain Development,0,$30,1.1,YES,86%
+FL250754,Anthony Krause,MALE,51,China,Mandarin,Blockchain Development,17,$40,4.5,YES,72%
+FL250756,Stuart Mckinney,MALE,26,Japan,Japanese,Data Analysis,7,$75,2.9,NO,78%
+FL250757,Kellie Le,FEMALE,49,Indonesia,Indonesian,AI,22,$75,0,YES,
+FL250758,Lauren Henry,FEMALE,37,Italy,Italian,DevOps,,$75,3.5,NO,75%
+FL250759,Brandon Fox,MALE,31,Australia,English,AI,1,$40,4.5,NO,96%
+FL250760,Richard Smith,MALE,51,South Korea,Korean,Mobile Apps,5,$40,1.7,YES,61%
+FL250761,John White,MALE,60,China,Mandarin,DevOps,40,$50,4.6,YES,100%
+FL250762,Gilbert Mcintyre,MALE,51,Canada,English,Blockchain Development,19,$50,,YES,82%
+FL250765,Jose Patterson,MALE,27,Indonesia,Indonesian,Blockchain Development,4,$20,,NO,63%
+FL250766,Bryan Long,MALE,48,Australia,English,Graphic Design,24,$40,2.2,NO,67%
+FL250767,Tammy Gomez,FEMALE,22,Japan,Japanese,Data Analysis,1,$30,3.3,YES,61%
+FL250768,Diana Raymond,FEMALE,48,Germany,German,Mobile Apps,28,$30,4.9,NO,77%
+FL250770,Amanda Martin,FEMALE,52,South Korea,Korean,Data Analysis,4,$50,,NO,84%
+FL250771,Anne Hamilton,FEMALE,39,Turkey,Turkish,Web Development,20,$100,,YES,89%
+FL250773,Tiffany Moses,FEMALE,22,United States,English,Cybersecurity,1,$20,4.8,NO,87%
+FL250774,Jacqueline Moon,FEMALE,29,South Africa,Afrikaans,Mobile Apps,8,$50,0,NO,77%
+FL250775,James Campbell,MALE,23,Spain,Spanish,DevOps,3,$30,1.6,YES,72%
+FL250776,Melissa Vasquez,FEMALE,58,Mexico,Spanish,DevOps,30,$50,1.3,YES,87%
+FL250777,Katherine Carlson,FEMALE,56,China,Mandarin,Blockchain Development,3,$40,4.1,YES,89%
+FL250778,Adam Clay,MALE,48,Turkey,Turkish,Web Development,19,$40,1.5,NO,87%
+FL250779,Amy Combs,FEMALE,31,Russia,Russian,Mobile Apps,11,$40,4.3,YES,76%
+FL250781,Kimberly Brown,FEMALE,42,Egypt,Arabic,Mobile Apps,10,$100,3.7,YES,94%
+FL250782,Joshua Holloway,MALE,59,United States,English,Cybersecurity,17,$50,1.4,YES,
+FL250783,Cynthia Walton,FEMALE,,Argentina,Spanish,Blockchain Development,9,$100,4.5,YES,83
+FL250784,Shawn Delgado,MALE,21,China,Mandarin,Data Analysis,0,$40,3.7,NO,74%
+FL250785,Jeremy Smith,MALE,53,United Kingdom,English,DevOps,5,$75,1.1,NO,92
+FL250787,Michelle Gregory,FEMALE,25,Brazil,Portuguese,Machine Learning,3,$50,3.2,YES,74%
+FL250788,Melanie Gay,FEMALE,23,Italy,Italian,UI/UX Design,1,$30,5,NO,97%
+FL250791,Jonathan Jones,MALE,24,United States,English,Cybersecurity,4,$50,3.1,NO,95%
+FL250794,Keith Smith,MALE,26,Australia,English,Data Analysis,5,$100,2.5,YES,93%
+FL250795,Christopher Hunter,MALE,54,United Kingdom,English,DevOps,29,$40,3.1,YES,
+FL250796,Dwayne Parks,MALE,53,Russia,Russian,Cybersecurity,12,$100,4.7,YES,87%
+FL250799,Mark Lopez,MALE,37,Canada,English,DevOps,3,$20,2.5,NO,62%
+FL250801,Beth Young,FEMALE,39,Spain,Spanish,Mobile Apps,15,$50,,NO,80%
+FL250802,Ryan Powell,MALE,43,Turkey,Turkish,Graphic Design,13,$20,1.2,YES,69
+FL250803,Amanda Fowler,FEMALE,40,Spain,Spanish,Blockchain Development,20,$30,,NO,90
+FL250804,Lindsay Rivera,FEMALE,51,United Kingdom,English,Machine Learning,30,$75,,YES,74%
+FL250805,Mark Ward,MALE,23,Germany,German,AI,4,$50,4.5,NO,98%
+FL250806,Amanda Smith,FEMALE,31,Indonesia,Indonesian,Graphic Design,,$20,,YES,84%
+FL250807,Emily Brown,FEMALE,44,Russia,Russian,Web Development,3,$20,5,YES,75%
+FL250808,Dwayne Cardenas,MALE,56,Germany,German,Mobile Apps,23,$75,3.9,YES,
+FL250809,Dr. Rhonda Hernandez,FEMALE,48,Australia,English,Cybersecurity,5,$100,1.8,YES,97%
+FL250810,Melody Barker,FEMALE,46,Russia,Russian,Web Development,28,$30,4.2,YES,
+FL250811,Russell Carpenter,MALE,21,Egypt,Arabic,AI,0,$20,2.6,NO,64%
+FL250812,Richard Hill,MALE,52,Russia,Russian,Data Analysis,30,$30,2,YES,68%
+FL250813,Lindsay Potts,FEMALE,39,Russia,Russian,Graphic Design,20,$75,2.7,YES,67%
+FL250814,Michelle Campbell,FEMALE,31,Australia,English,Mobile Apps,0,$30,2.3,NO,79%
+FL250815,Alan Williams,MALE,22,South Korea,Korean,UI/UX Design,4,$40,3.8,YES,100%
+FL250816,Robin Hinton,FEMALE,38,United Kingdom,English,UI/UX Design,10,$40,,NO,66%
+FL250817,Brian Holland,MALE,44,Argentina,Spanish,Graphic Design,24,$75,4.6,NO,97%
+FL250818,Adam Stone,MALE,53,Indonesia,Indonesian,Machine Learning,21,$100,3.4,NO,62%
+FL250819,Curtis Lambert,MALE,22,China,Mandarin,Data Analysis,2,$20,,NO,
+FL250820,Alexandra Sims,FEMALE,40,India,Hindi,Blockchain Development,14,$75,0,YES,79%
+FL250821,Brenda Spencer,FEMALE,49,China,Mandarin,Mobile Apps,15,$40,3.9,NO,86%
+FL250822,Joshua Bush,MALE,30,Australia,English,UI/UX Design,11,$30,4.2,NO,65%
+FL250824,Alexander Hogan,MALE,21,Egypt,Arabic,Graphic Design,2,$100,3.6,NO,85
+FL250825,William Harris,MALE,20,South Korea,Korean,AI,1,$50,,YES,81%
+FL250826,Michael Mcmahon,MALE,20,China,Mandarin,Data Analysis,2,$40,2.1,NO,64%
+FL250827,Michael Watson,MALE,20,Argentina,Spanish,Machine Learning,2,$20,3.9,NO,84%
+FL250829,Lindsay Le,FEMALE,50,South Korea,Korean,Web Development,12,$75,0,NO,75
+FL250831,Diana Ferguson,FEMALE,54,Indonesia,Indonesian,AI,4,$20,1.1,YES,63%
+FL250832,Joseph Miller,MALE,54,Spain,Spanish,Blockchain Development,3,$20,1.6,YES,70%
+FL250834,Samantha Matthews,FEMALE,20,Italy,Italian,DevOps,1,$50,3.4,YES,79
+FL250835,Brian Bailey,MALE,29,Germany,German,AI,8,$40,3.1,NO,60%
+FL250836,Toni Hinton,FEMALE,57,United Kingdom,English,DevOps,11,$75,2.3,NO,
+FL250837,Robin Ortiz,FEMALE,36,Netherlands,Dutch,AI,8,$40,,NO,80%
+FL250838,Adam Griffith,MALE,51,South Korea,Korean,Web Development,32,$50,3.2,NO,88
+FL250839,Daniel Roberson,MALE,44,India,Hindi,UI/UX Design,4,$30,0,NO,80%
+FL250840,Dale Haynes,MALE,58,Spain,Spanish,Cybersecurity,33,$30,3.3,YES,71%
+FL250842,David Brown,MALE,24,United States,English,UI/UX Design,6,$30,4.6,YES,93%
+FL250843,Stephanie Guzman,FEMALE,30,Turkey,Turkish,Blockchain Development,5,$30,,NO,
+FL250844,Maxwell Johnson,MALE,25,Indonesia,Indonesian,Cybersecurity,3,$75,,NO,83%
+FL250845,Reginald Stephens,MALE,54,Indonesia,Indonesian,Mobile Apps,17,$100,0,NO,71%
+FL250846,Justin Jones,MALE,54,Italy,Italian,Cybersecurity,9,$20,0,YES,96%
+FL250847,Kristine Garcia,FEMALE,53,France,French,Graphic Design,16,$40,0,NO,
+FL250848,John Nguyen,MALE,22,Russia,Russian,AI,3,$75,3.4,YES,65%
+FL250849,Anna Fleming,FEMALE,23,Mexico,Spanish,Data Analysis,2,$20,1.3,NO,
+FL250850,Linda Williamson,FEMALE,47,France,French,Cybersecurity,16,$50,1.9,NO,71%
+FL250851,Roy Wilson,MALE,24,France,French,Web Development,6,$50,1.4,YES,63
+FL250852,Jennifer Pierce,FEMALE,57,India,Hindi,UI/UX Design,10,$100,4.3,NO,
+FL250853,Jason Johnson,MALE,48,Spain,Spanish,Graphic Design,16,$30,,NO,97%
+FL250854,Jasmine Lane,FEMALE,21,Turkey,Turkish,UI/UX Design,0,$100,4.3,NO,
+FL250855,Evan Soto,MALE,33,Japan,Japanese,AI,13,$75,0,YES,
+FL250857,Nathaniel Benson,MALE,40,Australia,English,Cybersecurity,13,$50,2.9,NO,82%
+FL250858,Deanna Miles,FEMALE,40,Mexico,Spanish,Graphic Design,22,$40,4.3,NO,95%
+FL250861,Nicholas Guerrero,MALE,32,Canada,English,Blockchain Development,12,$40,0,YES,63%
+FL250862,Christopher Johnson,MALE,60,Japan,Japanese,AI,,$20,2.2,NO,60%
+FL250863,Steven Flowers,MALE,46,Egypt,Arabic,Machine Learning,12,$50,4.7,YES,77%
+FL250864,Marvin Woods III,MALE,29,China,Mandarin,DevOps,0,$30,0,NO,63%
+FL250865,Michelle Cook,FEMALE,39,Brazil,Portuguese,Mobile Apps,18,$20,2.5,YES,61%
+FL250866,Logan Zamora,MALE,55,Russia,Russian,Mobile Apps,2,$50,3.9,YES,88%
+FL250867,Casey Roberts,MALE,55,Turkey,Turkish,Cybersecurity,,$100,1.2,YES,69%
+FL250868,Jerry Price,MALE,40,Indonesia,Indonesian,Data Analysis,2,$75,4.5,YES,
+FL250869,Kelly Ellis,FEMALE,56,China,Mandarin,UI/UX Design,35,$40,2.7,YES,82%
+FL250870,Caleb Guerra,MALE,57,Mexico,Spanish,Mobile Apps,21,$75,2,NO,96%
+FL250871,Samantha Norman,FEMALE,56,Russia,Russian,DevOps,3,$40,1.7,NO,71%
+FL250872,Sarah Clarke,FEMALE,49,Germany,German,Mobile Apps,24,$75,3,YES,77%
+FL250873,Aaron Blair,MALE,26,Spain,Spanish,Blockchain Development,,$75,2.1,YES,
+FL250875,Gerald Taylor,MALE,20,Russia,Russian,Web Development,2,$30,1.7,YES,60%
+FL250877,Mrs. Lisa Beard DVM,FEMALE,30,India,Hindi,Mobile Apps,6,$75,0,NO,80%
+FL250878,Larry Wallace,MALE,51,Australia,English,Graphic Design,21,$20,,YES,
+FL250879,Jeremiah Thompson,MALE,46,United States,English,UI/UX Design,24,$40,3.3,YES,87%
+FL250880,Mrs. Jessica Williams DVM,FEMALE,25,South Korea,Korean,AI,6,$20,2.1,NO,
+FL250881,Martin Moreno,MALE,53,Netherlands,Dutch,Web Development,32,$50,,YES,
+FL250882,Yolanda Proctor,FEMALE,50,Egypt,Arabic,Mobile Apps,31,$100,2.9,YES,89%
+FL250883,Allen Turner,MALE,45,South Korea,Korean,AI,,$20,3.3,YES,93%
+FL250884,Beth Huff,FEMALE,48,Canada,English,Cybersecurity,24,$100,4.8,YES,84%
+FL250886,Sarah Ho,FEMALE,33,Netherlands,Dutch,UI/UX Design,6,$50,3.1,NO,90%
+FL250888,Margaret Schwartz,FEMALE,24,Indonesia,Indonesian,Data Analysis,,$20,0,NO,76%
+FL250889,Kyle Ray,MALE,38,Italy,Italian,Web Development,14,$75,1.5,NO,62%
+FL250890,Isaac Hebert,MALE,56,Japan,Japanese,DevOps,2,$75,2.4,NO,
+FL250891,Michele Jones,FEMALE,41,Russia,Russian,DevOps,2,$100,4.5,NO,75
+FL250892,Austin Allen,MALE,,Italy,Italian,UI/UX Design,11,$100,2.5,YES,80
+FL250895,Wendy Mitchell,FEMALE,44,Canada,English,Cybersecurity,25,$75,2.7,YES,78
+FL250896,Anthony Hernandez,MALE,46,Canada,English,Graphic Design,20,$20,1.2,NO,74%
+FL250897,Erica Johnson,FEMALE,36,United States,English,UI/UX Design,8,$50,4.3,NO,90%
+FL250898,Randall Barrett,MALE,26,Netherlands,Dutch,AI,6,$40,1.3,NO,
+FL250899,Nathan Huff,MALE,21,Germany,German,UI/UX Design,3,$50,4.6,YES,
+FL250900,Robin Walsh,FEMALE,39,Indonesia,Indonesian,UI/UX Design,18,$50,2.1,NO,75
+FL250901,Yvonne Robinson,FEMALE,37,United States,English,Blockchain Development,18,$40,4.5,NO,72%
+FL250902,Kathleen Hendrix,FEMALE,47,Russia,Russian,UI/UX Design,3,$40,4.4,YES,92%
+FL250903,Jennifer Baker,FEMALE,53,Russia,Russian,Graphic Design,32,$20,0,NO,
+FL250904,Kim Martinez,FEMALE,53,Argentina,Spanish,Mobile Apps,19,$20,1.3,NO,
+FL250905,Andrew Little,MALE,21,India,Hindi,Data Analysis,2,$50,2.6,NO,86%
+FL250907,Steven Duncan,MALE,31,Argentina,Spanish,Machine Learning,13,$40,1.2,NO,62
+FL250908,Kristen Haney,FEMALE,55,South Korea,Korean,AI,2,$30,3.1,YES,91%
+FL250909,Kathy Reese,FEMALE,59,Turkey,Turkish,Web Development,11,$75,2.3,YES,80%
+FL250910,Steven Murphy,MALE,59,France,French,Cybersecurity,17,$100,4,NO,72%
+FL250912,Sonya Haley,FEMALE,53,South Africa,Afrikaans,Machine Learning,26,$75,2.4,YES,
+FL250913,Robert Evans,MALE,49,South Africa,Afrikaans,Data Analysis,,$30,,YES,74%
+FL250914,Patricia Richardson,FEMALE,50,South Africa,Afrikaans,Mobile Apps,8,$50,3.7,YES,82%
+FL250915,Carolyn Lopez,FEMALE,59,South Korea,Korean,Machine Learning,22,$100,1.1,NO,85%
+FL250916,Kyle Burns,MALE,33,Turkey,Turkish,Data Analysis,8,$75,2.3,YES,68%
+FL250917,Margaret Garcia,FEMALE,45,Canada,English,Web Development,22,$40,3.7,YES,99%
+FL250918,Brittany Barker,FEMALE,36,Italy,Italian,Graphic Design,14,$30,1.9,NO,62%
+FL250919,Paul Campbell,MALE,46,South Africa,Afrikaans,UI/UX Design,6,$30,1.5,NO,
+FL250920,Amy Morrow,FEMALE,53,Turkey,Turkish,Graphic Design,14,$30,0,NO,83%
+FL250923,Mrs. Amy Brooks,FEMALE,49,South Korea,Korean,AI,4,$75,2.9,NO,
+FL250924,Lori Marshall,FEMALE,49,South Korea,Korean,Mobile Apps,24,$100,3.6,YES,
+FL250925,Jennifer Miller,FEMALE,58,Brazil,Portuguese,Blockchain Development,29,$30,3.3,YES,89%
+FL250927,Zachary Larsen,MALE,27,South Africa,Afrikaans,DevOps,1,$100,3.7,YES,61
+FL250928,Valerie Gutierrez,FEMALE,20,South Korea,Korean,Machine Learning,,$30,4.6,YES,
+FL250929,Daniel Parker,MALE,52,Russia,Russian,Blockchain Development,15,$40,0,YES,92%
+FL250930,Nicole Bennett,FEMALE,22,France,French,Machine Learning,2,$30,2,NO,96%
+FL250931,Lauren Lowery,FEMALE,38,Turkey,Turkish,Web Development,14,$100,1.7,NO,66%
+FL250932,Alexander Woodward,MALE,21,Canada,English,Graphic Design,0,$100,3,NO,64%
+FL250933,Anthony Walter,MALE,41,Australia,English,AI,15,$40,3.4,NO,100%
+FL250934,Valerie Finley,FEMALE,33,Indonesia,Indonesian,Blockchain Development,6,$40,3.2,YES,95%
+FL250936,Kristina Miller,FEMALE,26,Russia,Russian,DevOps,8,$20,4.1,YES,82%
+FL250937,Anne Hampton,FEMALE,43,Netherlands,Dutch,AI,3,$20,0,YES,95%
+FL250940,Nathan Davis,MALE,35,Spain,Spanish,Graphic Design,6,$40,,YES,91%
+FL250941,Erica Jackson,FEMALE,37,Indonesia,Indonesian,Mobile Apps,9,$30,2.7,YES,
+FL250943,Richard Sanchez,MALE,40,Canada,English,Data Analysis,20,$20,2.5,NO,81%
+FL250944,Savannah Reid,FEMALE,46,Brazil,Portuguese,Data Analysis,16,$75,0,NO,94%
+FL250945,Robert Salazar,MALE,56,Egypt,Arabic,DevOps,22,$30,,NO,95%
+FL250947,Thomas Jackson,MALE,,Mexico,Spanish,AI,1,$75,0,YES,94%
+FL250948,Tina Clark,FEMALE,38,Turkey,Turkish,Mobile Apps,8,$30,4,YES,92%
+FL250949,Heather Brown,FEMALE,28,France,French,DevOps,8,$50,2.5,YES,95%
+FL250951,Bradley Harris,MALE,41,United Kingdom,English,DevOps,8,$50,4.8,NO,75%
+FL250952,Cassandra Macdonald,FEMALE,45,Mexico,Spanish,Data Analysis,6,$40,2,YES,78%
+FL250953,Matthew White,MALE,47,Turkey,Turkish,DevOps,16,$100,3.3,NO,65%
+FL250954,Miss Kimberly Marshall,FEMALE,59,United Kingdom,English,Data Analysis,40,$40,2.5,YES,70
+FL250955,Laura Thompson,FEMALE,25,Canada,English,Blockchain Development,6,$100,,YES,78
+FL250956,Nathan Soto,MALE,27,Australia,English,Web Development,3,$50,,YES,96%
+FL250957,Rhonda Hines,FEMALE,57,Australia,English,AI,5,$100,0,YES,80%
+FL250958,Gabrielle Bowman,FEMALE,34,Turkey,Turkish,UI/UX Design,12,$20,1.6,YES,64%
+FL250959,Julian Edwards,MALE,55,France,French,UI/UX Design,33,$50,0,NO,92%
+FL250960,Nicholas Scott,MALE,21,Egypt,Arabic,Blockchain Development,1,$100,0,YES,
+FL250961,Daniel Green,MALE,53,Netherlands,Dutch,DevOps,27,$20,4.7,YES,71
+FL250962,Catherine Johnston,FEMALE,21,Germany,German,UI/UX Design,1,$100,0,YES,95%
+FL250963,Brenda Koch,FEMALE,36,Brazil,Portuguese,Web Development,,$20,4.1,NO,86%
+FL250964,Mr. Robert Meza,MALE,40,Germany,German,AI,2,$30,1.3,YES,77%
+FL250967,David Hooper,MALE,44,South Korea,Korean,Machine Learning,9,$40,,NO,70%
+FL250968,Sarah Miller,FEMALE,36,United Kingdom,English,Cybersecurity,13,$30,3.6,NO,86%
+FL250969,Lisa Werner MD,FEMALE,26,India,Hindi,Graphic Design,1,$75,3,YES,
+FL250971,Jay Bush,MALE,29,France,French,Mobile Apps,3,$40,0,YES,81%
+FL250972,Johnny Rice,MALE,32,France,French,Graphic Design,1,$40,3.1,YES,76%
+FL250973,Matthew Strong,MALE,24,Indonesia,Indonesian,Blockchain Development,3,$30,3.9,NO,90%
+FL250974,Mark Chandler,MALE,35,South Korea,Korean,DevOps,14,$30,1.6,YES,67%
+FL250976,Timothy Barton,MALE,53,South Korea,Korean,Machine Learning,27,$100,3.7,NO,73%
+FL250977,Lisa Hickman,FEMALE,38,Russia,Russian,DevOps,7,$75,,NO,
+FL250978,Alan Mendoza,MALE,57,United Kingdom,English,Cybersecurity,29,$75,4.1,NO,90%
+FL250979,Jason Sanders,MALE,27,China,Mandarin,Blockchain Development,5,$75,1.4,YES,64%
+FL250980,Charles Dean,MALE,43,Argentina,Spanish,Web Development,2,$100,1.1,YES,63%
+FL250982,David Gonzalez,MALE,26,Brazil,Portuguese,Cybersecurity,8,$20,3.6,NO,67%
+FL250983,Cindy Williams,FEMALE,,South Africa,Afrikaans,Graphic Design,0,$40,0,NO,97%
+FL250984,Laura Wong DDS,FEMALE,50,Italy,Italian,Data Analysis,16,$75,4.5,NO,69
+FL250985,Robert Moran,MALE,48,South Africa,Afrikaans,Web Development,8,$50,,YES,73%
+FL250986,Bradley Wu,MALE,60,Spain,Spanish,Blockchain Development,39,$20,1.4,YES,86%
+FL250987,Daniel Thomas,MALE,26,Egypt,Arabic,Machine Learning,,$50,0,YES,81
+FL250988,Michelle Peterson,FEMALE,35,South Korea,Korean,Graphic Design,16,$100,4.3,YES,74%
+FL250989,Seth Thomas,MALE,23,United States,English,Blockchain Development,4,$100,2.2,YES,64
+FL250990,Evan Ramos,MALE,37,Australia,English,Graphic Design,4,$75,3.2,NO,76%
+FL250991,Michelle Solis,FEMALE,21,Argentina,Spanish,AI,2,$100,3.7,YES,73
+FL250992,Charlotte Taylor,FEMALE,58,Germany,German,UI/UX Design,37,$50,4.9,NO,69%
+FL250993,Sandra Preston,FEMALE,52,Indonesia,Indonesian,Mobile Apps,32,$75,3.2,NO,79%
+FL250995,Jennifer Hinton,FEMALE,34,South Africa,Afrikaans,DevOps,8,$30,3.9,YES,95%
+FL250996,Albert Wilcox,MALE,56,Turkey,Turkish,DevOps,13,$100,0,NO,68%
+FL250997,Cheryl Norris,FEMALE,26,Germany,German,Blockchain Development,6,$40,2.8,NO,82
+FL250998,Kathy Watkins,FEMALE,37,Japan,Japanese,Data Analysis,15,$75,,NO,94%
+FL250999,John Obrien,MALE,46,Russia,Russian,Machine Learning,22,$100,2.8,YES,97
+FL251000,Dawn Green,FEMALE,36,Mexico,Spanish,UI/UX Design,18,$20,1.7,YES,72
